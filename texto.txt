@@ -11,14 +11,11 @@ não ao show.
 Devido a grandeza do festival, há vários funcionários trabalhando nos palcos, o que nos leva a
 necessidade de controlar qual funcionário trabalhou em um determinado setor do festival em uma
 determinada data, pois o festival acontece em vários dias.
-	1. Cada funcionário terá um nome, idade, sexo e CPF. O empregado pode ser um Gerente de palco, Montador de palco ou auxiliar de limpeza.
-
-	2. Para cada palco deve-se armazenar informações sobre: Banda que tocou no mesmo em um
-determinado horário, qual era o gerente responsável pelo palco, quais funcionários estavam
-trabalhando na assistencia do palco em determinado dia e hora.
+	1. Cada funcionário terá um nome, sexo e CPF. O empregado pode ser um Gerente de palco, Montador de palco ou auxiliar de limpeza.
+	2. Nos palcos, tocam várias bandas em determinado horário, qual era o gerente responsável pelo palco, quais funcionários estavam trabalhando em quais palcos durante o festival em determinado dia e hora.
 	3. Cada edição do festival terá as bandas que tocaram, o número de dias do festival, o ano, o número
 de pessoas, arrecadação total
 	4. Deve-se controlar as apresentações das bandas em determinados palcos, bem como o horário e o
 fim da apresentação.
 	5. As apresentações conterão os equipamentos utilizandos no momento da apresentação, dia do show
-	6. As bandas
+	6. As bandas tocam nos palcos
