@@ -1,21 +1,13 @@
-PROJETO ROCK IN RIO
-
-O projeto sugere a cria√ß√£o de um sistema para controlar o funcionameto de diversas
-apresenta√ß√µes participantes do festival. O banco de dados deve conter, informa√ß√µes sobre as bandas que
-participaram de uma determinada edi√ß√£o do festival que ocorreu no Brasil).
-
-O festival √© composto por v√°rios palcos, assim, ser√£o armazenadas informa√ß√µes sobre os mesmos. Deve-
-se controlar o hor√°rio e a dura√ß√£o de inicio de fim da apresenta√ß√£o de cada banda, e se a mesma foi ou
-
-n√£o ao show.
-Devido a grandeza do festival, h√° v√°rios funcion√°rios trabalhando nos palcos, o que nos leva a
-necessidade de controlar qual funcion√°rio trabalhou em um determinado setor do festival em uma
-determinada data, pois o festival acontece em v√°rios dias.
-	1. Cada funcion√°rio ter√° um nome, sexo e CPF. O empregado pode ser um Gerente de palco, Montador de palco ou auxiliar de limpeza.
-	2. Nos palcos, tocam v√°rias bandas em determinado hor√°rio, qual era o gerente respons√°vel pelo palco, quais funcion√°rios estavam trabalhando em quais palcos durante o festival em determinado dia e hora.
-	3. Cada edi√ß√£o do festival ter√° as bandas que tocaram, o n√∫mero de dias do festival, o ano, o n√∫mero
-de pessoas, arrecada√ß√£o total
-	4. Deve-se controlar as apresenta√ß√µes das bandas em determinados palcos, bem como o hor√°rio e o
-fim da apresenta√ß√£o.
-	5. As apresenta√ß√µes conter√£o os equipamentos utilizandos no momento da apresenta√ß√£o, dia do show
-	6. As bandas tocam nos palcos
+No Rock in Rio a apresentaÁ„o ocorre em um palco com nome e codigo sendo um codigo unico, a banda que toca nesse palco tambem te um nome e genero sendo que bandas
+de mesmo genero nao devem possuir nomes iguais.
+Toda apresentaÁ„o tem hora de inicio e uma data visto que o Rock in Rio ocorre em mais de um dia.
+No palco trabalham varios funcionarios eles possuem nome , cpf e sexo sendo eles o gerente de palco , auxiliar de limpeza e assistente de palco e nenhum deles devem fazer a 
+funÁ„o de outro mas um funcionario desses pode trabalhar em varios palcos.
+A apresentaÁ„o utiliza muitos equipamentos cada um com um nome distinto e esses equipamentos podem ser usados de outras apresentaÁıes.
+A banda se hospeda em um hotel com um nome exclusivo, e os artistas que tocam na apresentaÁ„o tem nomes unicos sendo que um artista pode tocar em mais de uma
+apresentaÁ„o.O artista toca um instrumento que tem um tipo e nome , sendo esse nome unico.
+Essa apresentaÁıes s„o realizadas em uma ediÁ„o do festival, sendo que em uma ediÁ„o realizada  acontecem varias apresentaÁıes.Em cada ediÁ„o temos o codigo do patrocinador
+o seu numero , ano de ediÁ„o , arrecadaÁ„o ,numero de pessoas e dias.
+Como o Rock in Rio È um evento popular cada ediÁ„o do festival produz midias com tipos e nomes sendo que eles tem s„o distinto entre si.
+O patrocinador doa um valor para o Rock in Rio usando seu nome fantasia, porem esse nome pode ser repetido ent„o para diferenciar os patrocinadores s„o distribuido cÛdigos
+exclusivos entre eles.
